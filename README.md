@@ -5,11 +5,14 @@ We are pleased to offer access to detailed domain information, including compreh
 Welcome to the Domain Information API repository! This API offers comprehensive domain data, similar to the provided example of yahoo.com, which includes detailed domain registration, contact, and status information.
 
 **Features**
-Extensive Domain Data: Access details like registration dates, registrant information, nameservers, and more.
+•Extensive Domain Data: Access details like registration dates, registrant information, nameservers, and more.
+<br/>
 
-Contact Information: Retrieve administrative, technical, billing, and registrant contact details.
+•Contact Information: Retrieve administrative, technical, billing, and registrant contact details.
+<br/>
 
-Registrar and Status Info: Information about the domain's registrar and current domain status codes.
+•Registrar and Status Info: Information about the domain's registrar and current domain status codes.
+<br/>
 
 <div >
     <sub>The Project</sub>
@@ -29,7 +32,7 @@ POST/GET https://api.whoisdatacenter.com/v1/domain
 {
  "domain": "example",
  "apiKey": "{place_your_api_key_here}"
-}
+}```
 
 
 **Want more free API for Domains Related Data***
