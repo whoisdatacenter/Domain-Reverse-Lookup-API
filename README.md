@@ -29,8 +29,8 @@ Welcome to the Domain Information API repository! This API offers comprehensive 
 
 **API**
 
-```POST/GET https://api.whoisdatacenter.com/v1/domain
-
+```
+POST/GET https://api.whoisdatacenter.com/v1/domain
 {
  "domain": "example",
  "apiKey": "{place_your_api_key_here}"
