@@ -35,7 +35,7 @@ Welcome to the Domain Information API repository! This API offers comprehensive 
  "domain": "example",
  "apiKey": "{place_your_api_key_here}"
 }
-
+```
 
 
 **Want more free API for Domains Related Data***
