@@ -21,8 +21,9 @@ Registrar and Status Info: Information about the domain's registrar and current 
     <br />
 
 
-#Domain Lookup API Endpoint:
+# Domain Lookup API Endpoint:
 **API**
+```
 POST/GET https://api.whoisdatacenter.com/v1/domain
 
 {
