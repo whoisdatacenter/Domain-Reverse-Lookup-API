@@ -32,6 +32,7 @@ POST/GET https://api.whoisdatacenter.com/v1/domain
 
 `{
  "domain": "example",
+ 
  "apiKey": "{place_your_api_key_here}"
 }`
 
