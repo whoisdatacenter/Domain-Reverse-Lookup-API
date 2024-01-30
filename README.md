@@ -26,7 +26,7 @@ Welcome to the Domain Information API repository! This API offers comprehensive 
 
 # Domain Lookup API Endpoint:
 **API**
-```
+
 POST/GET https://api.whoisdatacenter.com/v1/domain
 
 {
