@@ -66,8 +66,7 @@ POST/GET https://api.whoisdatacenter.com/v1/domain
 <br/>
 
  **🔗 Don't Miss Out! Click here to explore:** 
-
-# https://whoisdatacenter.com/api-documentation/
+# https://whoisdatacenter.com/api-documentation/#domain-api
 
 **Unlock the full potential of domain data analytics with just one click!**
 
