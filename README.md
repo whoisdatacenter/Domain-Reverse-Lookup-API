@@ -2,7 +2,7 @@
 We are pleased to offer access to detailed domain information, including comprehensive data for domains such as yahoo.com. Our data includes key details like registration dates, registrant information, administrative and technical contact details, and domain status.
 
 # Introduction
-Welcome to the Domain Information API repository! This API offers comprehensive domain data, similar to the provided example of yahoo.com, which includes detailed domain registration, contact, and status information.
+Welcome to the Domain Information API repository! This API offers comprehensive domain data, which includes detailed domain registration, contact, and status information.
 
 # Features
 
