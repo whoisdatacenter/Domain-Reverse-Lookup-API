@@ -55,8 +55,7 @@ POST/GET https://api.whoisdatacenter.com/v1/domain
 # 🌟 Exclusive : Dive Deeper into Domain Data! 🌟
 
 **Visit Our Website**
-
-
+---
 •More Data: Access a wider range of domain-related data.
 <br/>
 
