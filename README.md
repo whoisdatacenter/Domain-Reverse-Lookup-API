@@ -74,6 +74,38 @@ POST/GET https://api.whoisdatacenter.com/v1/domain
 
 <br/>
 
+
+Special Offer for GitHub Users
+
+🚀 Get 1000 API Credits Free on Verification!
+
+We are excited to offer GitHub users an exclusive opportunity to enhance their development experience. Upon verifying your account with our website, you will receive 1000 API credits, absolutely free!
+
+🔑 How It Works:
+
+Verify Your Account: Simply link and verify your account with our website.
+<br/>
+
+Receive 1000 API Credits: Once verified, 1000 API credits will be automatically added to your account.
+<br/>
+
+Unleash the Potential: Use these credits to access our range of powerful APIs, designed to supercharge your development projects.
+<br/>
+
+💡 Why Our APIs?
+
+Enhanced Productivity: Our APIs provide tools and data crucial for modern software development.
+<br/>
+
+Easy Integration: Seamlessly integrate with your GitHub projects.
+<br/>
+
+Secure and Reliable: Prioritizing your data's security and API's uptime.
+<br/>
+
+🌟 Join the Community of Developers who are already benefiting from this offer!
+
+Terms and conditions apply. Offer valid for a limited time.
 # IMPORTANT INFORMATION
 
 
